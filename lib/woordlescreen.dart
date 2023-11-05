@@ -228,6 +228,5 @@ class _WoordlescreenState extends State<Woordlescreen> {
         ],
       ),
     );
-    ;
   }
 }
